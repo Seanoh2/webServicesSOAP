@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Container>
+ <Team teamId="1">Bohemians</Team>
+ <Team teamId="2">Bray Wanderers</Team>
+ <Team teamId="3">Cork City</Team>
+ <Team teamId="4">Derry City</Team>
+ <Team teamId="5">Dundalk</Team>
+ <Team teamId="6">Finn Harps</Team>
+ <Team teamId="7">Galway United</Team>
+ <Team teamId="8">Drogheda United</Team>
+ <Team teamId="9">Shamrock Rovers</Team>
+ <Team teamId="10">Sligo Rovers</Team>
+ <Team teamId="11">St. Patrick's Athletic</Team>
+ <Team teamId="12">Limerick FC</Team>
+</Container>
