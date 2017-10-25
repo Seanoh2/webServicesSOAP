@@ -1,7 +1,7 @@
 <?xml version ='1.0' encoding ='UTF-8' ?> 
 <definitions name='Results' 
-  targetNamespace='http://localhost/WebService1/Results' 
-  xmlns:tns=' http://localhost/WebService1/Results ' 
+  targetNamespace='http://localhost/WebServicesSOAP/Results' 
+  xmlns:tns=' http://localhost/WebServicesSOAP/Results ' 
   xmlns:soap='http://schemas.xmlsoap.org/wsdl/soap/' 
   xmlns:xsd='http://www.w3.org/2001/XMLSchema' 
   xmlns:soapenc='http://schemas.xmlsoap.org/soap/encoding/'
@@ -20,6 +20,10 @@
     <input message='tns:getTeamRequest'/> 
     <output message='tns:getTeamResponse'/> 
   </operation> 
+  <operation name='getResults'> 
+    <input message='tns:getTeamRequest'/> 
+    <output message='tns:getTeamResponse'/> 
+  </operation> 
 </portType> 
 
 <binding name='ResultsBinding' type='tns:ResultsPortType'> 
@@ -35,13 +39,25 @@
     <output> 
       <soap:body use='encoded' namespace='urn:localhost-Results' 
         encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+    </output>
+     
+  </operation> 
+  <operation name='getResults'> 
+    <soap:operation soapAction='urn:localhost-Results#getResults'/> 
+    <input> 
+      <soap:body use='encoded' namespace='urn:localhost-Results' 
+        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+    </input> 
+    <output> 
+      <soap:body use='encoded' namespace='urn:localhost-Results' 
+        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
     </output> 
   </operation> 
 </binding> 
 
 <service name='ResultsService'> 
   <port name='ResultsPort' binding='ResultsBinding'> 
-    <soap:address location='http://localhost/WebService1/soap-server.php'/> 
+    <soap:address location='http://localhost/WebServicesSOAP/soap-server.php'/> 
   </port> 
 </service>
 </definitions>

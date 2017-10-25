@@ -1,0 +1,1435 @@
+<?xml version="1.0"?>
+<Container>
+ <Team id="">
+  <gameDate>24/02/2017</gameDate>
+  <homeTeam>1</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>4</awayGoal>
+  <awayTeam>4</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>24/02/2017</gameDate>
+  <homeTeam>5</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>9</awayTeam>
+  <attendance>4</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>24/02/2017</gameDate>
+  <homeTeam>7</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>8</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>24/02/2017</gameDate>
+  <homeTeam>11</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>2</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>24/02/2017</gameDate>
+  <homeTeam>6</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>3</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>24/02/2017</gameDate>
+  <homeTeam>12</homeTeam>
+  <homeGoal>5</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>10</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>03/03/2017</gameDate>
+  <homeTeam>9</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>1</awayTeam>
+  <attendance>5</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>03/03/2017</gameDate>
+  <homeTeam>8</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>11</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>03/03/2017</gameDate>
+  <homeTeam>3</homeTeam>
+  <homeGoal>4</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>7</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>03/03/2017</gameDate>
+  <homeTeam>2</homeTeam>
+  <homeGoal>5</homeGoal>
+  <awayGoal>3</awayGoal>
+  <awayTeam>6</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>04/03/2017</gameDate>
+  <homeTeam>10</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>4</awayGoal>
+  <awayTeam>5</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>10/03/2017</gameDate>
+  <homeTeam>9</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>4</awayTeam>
+  <attendance>3</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>10/03/2017</gameDate>
+  <homeTeam>6</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>7</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>10/03/2017</gameDate>
+  <homeTeam>10</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>11</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>10/03/2017</gameDate>
+  <homeTeam>5</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>12</awayTeam>
+  <attendance>3</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>10/03/2017</gameDate>
+  <homeTeam>8</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>4</awayGoal>
+  <awayTeam>3</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>10/03/2017</gameDate>
+  <homeTeam>1</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>2</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>13/03/2017</gameDate>
+  <homeTeam>2</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>8</awayTeam>
+  <attendance>638</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>13/03/2017</gameDate>
+  <homeTeam>3</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>10</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>13/03/2017</gameDate>
+  <homeTeam>4</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>5</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>13/03/2017</gameDate>
+  <homeTeam>7</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>9</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>13/03/2017</gameDate>
+  <homeTeam>12</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>1</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>13/03/2017</gameDate>
+  <homeTeam>11</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>6</awayTeam>
+  <attendance>895</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>17/03/2017</gameDate>
+  <homeTeam>9</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>3</awayTeam>
+  <attendance>3</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>17/03/2017</gameDate>
+  <homeTeam>1</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>7</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>18/03/2017</gameDate>
+  <homeTeam>4</homeTeam>
+  <homeGoal>4</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>8</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>18/03/2017</gameDate>
+  <homeTeam>5</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>11</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>18/03/2017</gameDate>
+  <homeTeam>12</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>6</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>18/03/2017</gameDate>
+  <homeTeam>10</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>2</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>25/03/2017</gameDate>
+  <homeTeam>11</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>9</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>25/03/2017</gameDate>
+  <homeTeam>6</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>10</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>25/03/2017</gameDate>
+  <homeTeam>8</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>1</awayTeam>
+  <attendance>772</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>25/03/2017</gameDate>
+  <homeTeam>3</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>5</awayTeam>
+  <attendance>6</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>25/03/2017</gameDate>
+  <homeTeam>2</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>12</awayTeam>
+  <attendance>649</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>31/03/2017</gameDate>
+  <homeTeam>12</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>3</awayGoal>
+  <awayTeam>3</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>31/03/2017</gameDate>
+  <homeTeam>4</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>3</awayGoal>
+  <awayTeam>2</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>31/03/2017</gameDate>
+  <homeTeam>9</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>6</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>31/03/2017</gameDate>
+  <homeTeam>5</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>8</awayTeam>
+  <attendance>3</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>31/03/2017</gameDate>
+  <homeTeam>1</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>4</awayGoal>
+  <awayTeam>11</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>03/04/2017</gameDate>
+  <homeTeam>0</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>0</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>03/04/2017</gameDate>
+  <homeTeam>7</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>10</awayTeam>
+  <attendance>891</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>07/04/2017</gameDate>
+  <homeTeam>6</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>5</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>07/04/2017</gameDate>
+  <homeTeam>11</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>12</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>07/04/2017</gameDate>
+  <homeTeam>8</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>9</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>07/04/2017</gameDate>
+  <homeTeam>3</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>4</awayTeam>
+  <attendance>5</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>07/04/2017</gameDate>
+  <homeTeam>2</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>7</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>08/04/2017</gameDate>
+  <homeTeam>10</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>1</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>14/04/2017</gameDate>
+  <homeTeam>9</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>10</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>14/04/2017</gameDate>
+  <homeTeam>7</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>11</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>14/04/2017</gameDate>
+  <homeTeam>5</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>3</awayGoal>
+  <awayTeam>2</awayTeam>
+  <attendance>3</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>14/04/2017</gameDate>
+  <homeTeam>4</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>6</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>14/04/2017</gameDate>
+  <homeTeam>1</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>3</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>15/04/2017</gameDate>
+  <homeTeam>12</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>8</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>21/04/2017</gameDate>
+  <homeTeam>12</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>7</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>21/04/2017</gameDate>
+  <homeTeam>6</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>8</awayTeam>
+  <attendance>905</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>21/04/2017</gameDate>
+  <homeTeam>11</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>3</awayGoal>
+  <awayTeam>3</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>21/04/2017</gameDate>
+  <homeTeam>5</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>1</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>21/04/2017</gameDate>
+  <homeTeam>2</homeTeam>
+  <homeGoal>4</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>9</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>22/04/2017</gameDate>
+  <homeTeam>10</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>4</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>25/04/2017</gameDate>
+  <homeTeam>4</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>12</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>28/04/2017</gameDate>
+  <homeTeam>9</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>12</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>28/04/2017</gameDate>
+  <homeTeam>7</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>5</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>28/04/2017</gameDate>
+  <homeTeam>8</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>10</awayTeam>
+  <attendance>803</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>28/04/2017</gameDate>
+  <homeTeam>4</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>11</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>28/04/2017</gameDate>
+  <homeTeam>3</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>2</awayTeam>
+  <attendance>5</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>28/04/2017</gameDate>
+  <homeTeam>1</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>6</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>05/05/2017</gameDate>
+  <homeTeam>4</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>1</awayTeam>
+  <attendance>1500</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>05/05/2017</gameDate>
+  <homeTeam>9</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>5</awayTeam>
+  <attendance>3</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>05/05/2017</gameDate>
+  <homeTeam>8</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>7</awayTeam>
+  <attendance>796</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>05/05/2017</gameDate>
+  <homeTeam>3</homeTeam>
+  <homeGoal>5</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>6</awayTeam>
+  <attendance>3</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>05/05/2017</gameDate>
+  <homeTeam>2</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>11</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>06/05/2017</gameDate>
+  <homeTeam>10</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>12</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>08/05/2017</gameDate>
+  <homeTeam>7</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>4</awayTeam>
+  <attendance>723</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>12/05/2017</gameDate>
+  <homeTeam>6</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>3</awayGoal>
+  <awayTeam>2</awayTeam>
+  <attendance>702</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>12/05/2017</gameDate>
+  <homeTeam>11</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>8</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>12/05/2017</gameDate>
+  <homeTeam>7</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>3</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>12/05/2017</gameDate>
+  <homeTeam>5</homeTeam>
+  <homeGoal>4</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>10</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>12/05/2017</gameDate>
+  <homeTeam>1</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>9</awayTeam>
+  <attendance>3</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>13/05/2017</gameDate>
+  <homeTeam>12</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>4</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>19/05/2017</gameDate>
+  <homeTeam>12</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>3</awayGoal>
+  <awayTeam>5</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>19/05/2017</gameDate>
+  <homeTeam>11</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>10</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>19/05/2017</gameDate>
+  <homeTeam>7</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>6</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>19/05/2017</gameDate>
+  <homeTeam>4</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>9</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>19/05/2017</gameDate>
+  <homeTeam>3</homeTeam>
+  <homeGoal>5</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>8</awayTeam>
+  <attendance>3</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>19/05/2017</gameDate>
+  <homeTeam>2</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>1</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>22/05/2017</gameDate>
+  <homeTeam>10</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>3</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>22/05/2017</gameDate>
+  <homeTeam>9</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>7</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>22/05/2017</gameDate>
+  <homeTeam>6</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>11</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>23/05/2017</gameDate>
+  <homeTeam>8</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>2</awayTeam>
+  <attendance>479</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>23/05/2017</gameDate>
+  <homeTeam>1</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>12</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>23/05/2017</gameDate>
+  <homeTeam>5</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>4</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>26/05/2017</gameDate>
+  <homeTeam>6</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>12</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>26/05/2017</gameDate>
+  <homeTeam>11</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>5</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>26/05/2017</gameDate>
+  <homeTeam>7</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>1</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>26/05/2017</gameDate>
+  <homeTeam>8</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>4</awayTeam>
+  <attendance>605</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>26/05/2017</gameDate>
+  <homeTeam>3</homeTeam>
+  <homeGoal>4</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>9</awayTeam>
+  <attendance>5</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>26/05/2017</gameDate>
+  <homeTeam>2</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>10</awayTeam>
+  <attendance>772</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>30/05/2017</gameDate>
+  <homeTeam>9</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>2</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>02/06/2017</gameDate>
+  <homeTeam>9</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>11</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>02/06/2017</gameDate>
+  <homeTeam>10</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>6</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>02/06/2017</gameDate>
+  <homeTeam>12</homeTeam>
+  <homeGoal>5</homeGoal>
+  <awayGoal>3</awayGoal>
+  <awayTeam>2</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>02/06/2017</gameDate>
+  <homeTeam>5</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>3</awayGoal>
+  <awayTeam>3</awayTeam>
+  <attendance>3</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>02/06/2017</gameDate>
+  <homeTeam>4</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>7</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>02/06/2017</gameDate>
+  <homeTeam>1</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>8</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>16/06/2017</gameDate>
+  <homeTeam>6</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>9</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>16/06/2017</gameDate>
+  <homeTeam>11</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>3</awayGoal>
+  <awayTeam>1</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>16/06/2017</gameDate>
+  <homeTeam>8</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>6</awayGoal>
+  <awayTeam>5</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>16/06/2017</gameDate>
+  <homeTeam>3</homeTeam>
+  <homeGoal>4</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>12</awayTeam>
+  <attendance>4</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>16/06/2017</gameDate>
+  <homeTeam>2</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>4</awayTeam>
+  <attendance>799</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>17/06/2017</gameDate>
+  <homeTeam>10</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>7</awayTeam>
+  <attendance>1679</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>23/06/2017</gameDate>
+  <homeTeam>9</homeTeam>
+  <homeGoal>4</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>8</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>23/06/2017</gameDate>
+  <homeTeam>7</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>2</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>23/06/2017</gameDate>
+  <homeTeam>5</homeTeam>
+  <homeGoal>4</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>6</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>23/06/2017</gameDate>
+  <homeTeam>4</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>3</awayTeam>
+  <attendance>1500</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>23/06/2017</gameDate>
+  <homeTeam>1</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>10</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>24/06/2017</gameDate>
+  <homeTeam>12</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>11</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>26/06/2017</gameDate>
+  <homeTeam>5</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>7</awayTeam>
+  <attendance>2000</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>30/06/2017</gameDate>
+  <homeTeam>11</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>7</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>30/06/2017</gameDate>
+  <homeTeam>8</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>12</awayTeam>
+  <attendance>600</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>30/06/2017</gameDate>
+  <homeTeam>2</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>3</awayGoal>
+  <awayTeam>5</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>02/07/2017</gameDate>
+  <homeTeam>10</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>9</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>05/07/2017</gameDate>
+  <homeTeam>1</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>5</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>07/07/2017</gameDate>
+  <homeTeam>8</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>6</awayTeam>
+  <attendance>564</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>07/07/2017</gameDate>
+  <homeTeam>7</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>12</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>09/07/2017</gameDate>
+  <homeTeam>4</homeTeam>
+  <homeGoal>4</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>10</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>09/07/2017</gameDate>
+  <homeTeam>3</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>11</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>14/07/2017</gameDate>
+  <homeTeam>6</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>1</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>14/07/2017</gameDate>
+  <homeTeam>11</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>4</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>15/07/2017</gameDate>
+  <homeTeam>10</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>8</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>16/07/2017</gameDate>
+  <homeTeam>2</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>3</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>21/07/2017</gameDate>
+  <homeTeam>1</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>4</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>21/07/2017</gameDate>
+  <homeTeam>11</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>2</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>21/07/2017</gameDate>
+  <homeTeam>7</homeTeam>
+  <homeGoal>4</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>8</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>22/07/2017</gameDate>
+  <homeTeam>12</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>10</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>23/07/2017</gameDate>
+  <homeTeam>5</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>9</awayTeam>
+  <attendance>3</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>24/07/2017</gameDate>
+  <homeTeam>6</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>4</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>28/07/2017</gameDate>
+  <homeTeam>9</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>1</awayTeam>
+  <attendance>4</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>28/07/2017</gameDate>
+  <homeTeam>8</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>11</awayTeam>
+  <attendance>850</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>28/07/2017</gameDate>
+  <homeTeam>3</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>7</awayTeam>
+  <attendance>3</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>28/07/2017</gameDate>
+  <homeTeam>2</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>3</awayGoal>
+  <awayTeam>6</awayTeam>
+  <attendance>563</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>29/07/2017</gameDate>
+  <homeTeam>10</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>5</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>30/07/2017</gameDate>
+  <homeTeam>4</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>12</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>31/07/2017</gameDate>
+  <homeTeam>3</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>1</awayTeam>
+  <attendance>3</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>04/08/2017</gameDate>
+  <homeTeam>9</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>4</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>04/08/2017</gameDate>
+  <homeTeam>6</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>3</awayGoal>
+  <awayTeam>7</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>04/08/2017</gameDate>
+  <homeTeam>5</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>12</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>04/08/2017</gameDate>
+  <homeTeam>8</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>3</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>04/08/2017</gameDate>
+  <homeTeam>1</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>2</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>05/08/2017</gameDate>
+  <homeTeam>10</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>11</awayTeam>
+  <attendance>1</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>15/08/2017</gameDate>
+  <homeTeam>12</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>9</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>15/08/2017</gameDate>
+  <homeTeam>10</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>2</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>18/08/2017</gameDate>
+  <homeTeam>11</homeTeam>
+  <homeGoal>4</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>6</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>18/08/2017</gameDate>
+  <homeTeam>7</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>9</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>18/08/2017</gameDate>
+  <homeTeam>3</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>10</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>18/08/2017</gameDate>
+  <homeTeam>2</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>8</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>19/08/2017</gameDate>
+  <homeTeam>12</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>1</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>20/08/2017</gameDate>
+  <homeTeam>4</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>4</awayGoal>
+  <awayTeam>5</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>21/08/2017</gameDate>
+  <homeTeam>6</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>3</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>01/09/2017</gameDate>
+  <homeTeam>12</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>6</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>01/09/2017</gameDate>
+  <homeTeam>9</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>3</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>01/09/2017</gameDate>
+  <homeTeam>5</homeTeam>
+  <homeGoal>6</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>11</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>01/09/2017</gameDate>
+  <homeTeam>1</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>7</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>15/09/2017</gameDate>
+  <homeTeam>7</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>4</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>15/09/2017</gameDate>
+  <homeTeam>8</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>4</awayGoal>
+  <awayTeam>1</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>15/09/2017</gameDate>
+  <homeTeam>2</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>12</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>16/09/2017</gameDate>
+  <homeTeam>6</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>10</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>22/09/2017</gameDate>
+  <homeTeam>9</homeTeam>
+  <homeGoal>4</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>6</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>22/09/2017</gameDate>
+  <homeTeam>1</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>11</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>22/09/2017</gameDate>
+  <homeTeam>5</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>8</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>22/09/2017</gameDate>
+  <homeTeam>7</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>10</awayTeam>
+  <attendance>2</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>22/09/2017</gameDate>
+  <homeTeam>4</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>5</awayGoal>
+  <awayTeam>2</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>22/09/2017</gameDate>
+  <homeTeam>12</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>3</awayTeam>
+  <attendance>1970</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>25/09/2017</gameDate>
+  <homeTeam>3</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>1</awayGoal>
+  <awayTeam>5</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>25/09/2017</gameDate>
+  <homeTeam>11</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>9</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>07/10/2017</gameDate>
+  <homeTeam>6</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>5</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>07/10/2017</gameDate>
+  <homeTeam>10</homeTeam>
+  <homeGoal>1</homeGoal>
+  <awayGoal>0</awayGoal>
+  <awayTeam>1</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>07/10/2017</gameDate>
+  <homeTeam>2</homeTeam>
+  <homeGoal>3</homeGoal>
+  <awayGoal>3</awayGoal>
+  <awayTeam>7</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>07/10/2017</gameDate>
+  <homeTeam>8</homeTeam>
+  <homeGoal>0</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>9</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+ <Team id="">
+  <gameDate>07/10/2017</gameDate>
+  <homeTeam>11</homeTeam>
+  <homeGoal>2</homeGoal>
+  <awayGoal>2</awayGoal>
+  <awayTeam>12</awayTeam>
+  <attendance>0</attendance>
+ </Team>
+</Container>

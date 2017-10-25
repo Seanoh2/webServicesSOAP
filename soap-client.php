@@ -1,7 +1,6 @@
 <?php
   $client = new SoapClient("LOI.wsdl");
-  $teamId='team1';
-  $response = $client->getTeam($teamId);
+  $response = $client->getTeam();
   $response2 = $client->getResults();
   echo $response;
 ?>

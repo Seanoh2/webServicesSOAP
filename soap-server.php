@@ -6,7 +6,7 @@
  * 
  */
 
-function getTeam($teamId) {
+function getTeam() {
     mysql_connect('localhost', 'root', '');
     mysql_select_db('loi');
 
@@ -40,7 +40,7 @@ function getResults() {
     mysql_connect('localhost', 'root', '');
     mysql_select_db('loi');
 
-    $sql = "SELECT * FROM results ORDER BY ID";
+    $sql = "SELECT * FROM matches ORDER BY ID";
     $res = mysql_query($sql);
 
     $xml = new XMLWriter();
@@ -55,39 +55,30 @@ function getResults() {
         $xml->startElement("Team");
         $xml->writeAttribute('id', $row['ID']);
 
-        $xml->startElement("TeamName");
-        $xml->writeAttribute('name', $row['Team']);
-
-        $xml->startElement("Played");
-        $xml->writeRaw($row['Played']);
+        $xml->startElement("gameDate");
+        $xml->writeRaw($row['gameDate']);
+        $xml->endElement();
+        
+        $xml->startElement("homeTeam");
+        $xml->writeRaw($row['homeTeam']);
+        $xml->endElement();
+        
+        $xml->startElement("homeGoal");
+        $xml->writeRaw($row['homeGoal']);
+        $xml->endElement();
+        
+        $xml->startElement("awayGoal");
+        $xml->writeRaw($row['awayGoal']);
+        $xml->endElement();
+        
+        $xml->startElement("awayTeam");
+        $xml->writeRaw($row['awayTeam']);
         $xml->endElement();
 
-        $xml->startElement("Won");
-        $xml->writeRaw($row['Won']);
+        $xml->startElement("attendance");
+        $xml->writeRaw($row['attendance']);
         $xml->endElement();
 
-        $xml->startElement("Drew");
-        $xml->writeRaw($row['Drew']);
-        $xml->endElement();
-
-        $xml->startElement("Lost");
-        $xml->writeRaw($row['Lost']);
-        $xml->endElement();
-
-        $xml->startElement("GFor");
-        $xml->writeRaw($row['GFor']);
-        $xml->endElement();
-
-        $xml->startElement("GAgainst");
-        $xml->writeRaw($row['GAgainst']);
-        $xml->endElement();
-
-        $xml->startElement("Location");
-        $xml->writeRaw($row['Location']);
-        $xml->endElement();
-
-        $xml->endElement();
-        $xml->endElement();
         $xml->endElement();
     }
 
